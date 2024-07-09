@@ -1,0 +1,4 @@
+difficulty 10
+enemy mindflayer 40 80 2
+waitenemy 0
+enemy mindflayer 40 -80 2
